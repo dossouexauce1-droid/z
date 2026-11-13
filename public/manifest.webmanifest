@@ -1,0 +1,17 @@
+{
+  "name": "Z, payer avec son visage",
+  "short_name": "Z",
+  "description": "Payer un commerce ou un proche avec son visage, sans téléphone ni carte.",
+  "lang": "fr",
+  "start_url": "./#encaisser",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1026",
+  "theme_color": "#0b1026",
+  "icons": [
+    { "src": "icons/z-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/z-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/z-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
