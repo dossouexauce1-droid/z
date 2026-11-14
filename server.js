@@ -15,6 +15,7 @@ const TYPES = {
   '.png': 'image/png',
   '.svg': 'image/svg+xml',
   '.webmanifest': 'application/manifest+json',
+  '.apk': 'application/vnd.android.package-archive',
 };
 
 http

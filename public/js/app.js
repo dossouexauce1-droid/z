@@ -43,6 +43,7 @@ function renderHome() {
             <a class="btn gold" href="#encaisser">Essayer la démo</a>
             <a class="btn line" href="#enroler">Créer un compte</a>
           </div>
+          <p class="get-app"><a href="telecharger/Z.apk" download>Télécharger l'application Android</a> (1 Mo, Android 7 ou plus récent)</p>
         </div>
         <div class="device" aria-hidden="true">
           <div class="device-top"><b>Boutique Chez Afi</b><span>Cotonou</span></div>
